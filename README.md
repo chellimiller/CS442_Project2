@@ -1,10 +1,13 @@
 # Project 2 - ls Command
 Class:    Systems Programming (CS442) at University of Wisconsin Stout
+
 Student:  Michelle Miller
+
 Due Date: May 1, 2017
 
 
 ## Overview
+
 ls command for Windows written as a .bat by Michelle Miller
 
 
@@ -35,4 +38,5 @@ ls command for Windows written as a .bat by Michelle Miller
  - [ ] Determine if input arg is directory or file
  - [ ] Determine if path is relative or absolute
  - [ ] Format dir output
+
 More tasks may be added 
