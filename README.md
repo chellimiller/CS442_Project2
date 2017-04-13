@@ -1,9 +1,9 @@
-# Project 2 - ls Command
-Class:    Systems Programming (CS442) at University of Wisconsin Stout
+# Project II - ls Command
+__Class:__    Systems Programming (CS442) at University of Wisconsin Stout
 
-Student:  Michelle Miller
+__Student:__  Michelle Miller
 
-Due Date: May 1, 2017
+__Due Date:__ May 1, 2017
 
 
 ## Overview
