@@ -8,8 +8,7 @@ __Due Date:__ May 1, 2017
 
 ## Overview
 
-ls command for Windows written as a .bat by Michelle Miller
-
+ls command for Windows written as a .bat by Michelle Miller. The final result is a simple script that meets the minimum requirements, the file could be improved by adding more options and changing the output so it is more like the Linux ls command.
 
 ## Requirements
 1. User can specify file or directory on command line
@@ -35,8 +34,5 @@ ls command for Windows written as a .bat by Michelle Miller
 ## Tasks
  - [x] Determine if -R option is there
  - [x] Set current working directory as input if nothing specified
- - [ ] Determine if input arg is directory or file
- - [ ] Determine if path is relative or absolute
- - [ ] Format dir output
-
-More tasks may be added 
+ - [x] Format dir output
+ - [x] Add -R option conversion
