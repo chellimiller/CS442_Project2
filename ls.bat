@@ -35,7 +35,7 @@ if [%1]==[] (
 rem Use dir command
 :dir
 echo.
-dir "%input%" %option%
+dir %input% %option%
 rem End all local variables created in the script
 endlocal
 rem Echo a blank line, then pause and wait for user
